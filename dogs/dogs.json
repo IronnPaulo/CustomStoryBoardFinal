@@ -2,13 +2,13 @@
   "dogs": [
     {
       
-      "description": "",
-	  "image": ""
-    },
- 
-    {
-       "description": "",
-	  "image": ""
+		"description1": "Dogs are very lovable man's best friend Through the ages, man has called dog one of his closest companions. He has also called him protector, helper, lifesaver, and provider. Dogs are an incredible friend to man because they have been there through the years, through any task and any challenge, but the relationship between dog and man goes a bit deeper (and older).
+
+		The friendship between dog and man dates back to 15,000 years when dogs, who originated from a common ancestor, followed man throughout his migrations in East Asia. Psychologically, this connection makes sense because both man and dog are social beings. Neither can thrive when alone, and both benefit mentally (and often physically) from such a strong bond. Having a dog at home gives us a listening ear, a warm paw to hold, and even strong legs to run beside. ",
+		
+		"image1": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/dogs/dog.png",
+		"image2": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/dogs/dog2.jpeg"
+
     }
   ]
 }
