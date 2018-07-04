@@ -1,13 +1,32 @@
 {
   "dogs": [
     {
-      
-		"description1": "Dogs are very lovable man's best friend Through the ages, man has called dog one of his closest companions. He has also called him protector, helper, lifesaver, and provider. Dogs are an incredible friend to man because they have been there through the years, through any task and any challenge, but the relationship between dog and man goes a bit deeper (and older).
-
-		The friendship between dog and man dates back to 15,000 years when dogs, who originated from a common ancestor, followed man throughout his migrations in East Asia. Psychologically, this connection makes sense because both man and dog are social beings. Neither can thrive when alone, and both benefit mentally (and often physically) from such a strong bond. Having a dog at home gives us a listening ear, a warm paw to hold, and even strong legs to run beside. ",
+		"breed" : "Cairn Terrier",
+		"description": "He is a sensible, independent, and friendly dog who excels as a family companion
+",
+		"image1": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/dogs/dog1.jpeg"
 		
-		"image1": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/dogs/dog.png",
-		"image2": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/dogs/dog2.jpeg"
+
+    },
+	{
+		"breed" : "Cardigan Welsh Corgi",
+		"description": "intelligent but can be stubborn. If housetraining is a problem, crate training is advised",
+		"image": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/dogs/dog2.jpeg"
+		
+
+    },
+	{
+		"breed" : "Beagles",
+		"description": "Some people say it can take up to a year to fully housetrain some Beagles. Crate training is absolutely recommended.",
+		"image": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/dogs/dog3.jpeg"
+		
+
+    },
+	{
+		"breed" : "Black Mouth Cur",
+		"description1": "Energetic, fearless, and strong,",
+		"image": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/dogs/dog4.jpeg"
+		
 
     }
   ]
