@@ -8,7 +8,7 @@
       "height": "1.80 m",
       "spouse": "Jennifer Aniston",
       "children": "Shiloh Nouvel Jolie-Pitt, Maddox Chivan Jolie-Pitt",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
+      "image": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/hills/ian.jpeg"
     },
     {
       "name": "Juls Padua Ayon",
@@ -18,7 +18,7 @@
       "height": "1.70 m",
       "spouse": "Katie Holmes",
       "children": "Suri Cruise, Isabella Jane Cruise, Connor Cruise",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
+      "image": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/hills/ayon.jpeg"
     },
     {
       "name": "Philip Francia",
@@ -28,7 +28,7 @@
       "height": "1.78 m",
       "spouse": "Lori Anne Allison",
       "children": "Lily-Rose Melody Depp, John 'Jack' Christopher Depp III",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/johnny.jpg"
+      "image": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/hills/philip.jpeg"
     },
 	  {
       "name": "Ironn Paulo D. Panganiban",
@@ -38,7 +38,7 @@
       "height": "1.78 m",
       "spouse": "Lori Anne Allison",
       "children": "Lily-Rose Melody Depp, John 'Jack' Christopher Depp III",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/johnny.jpg"
+      "image": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/hills/ironn.jpeg"
     }
   ]
 }
