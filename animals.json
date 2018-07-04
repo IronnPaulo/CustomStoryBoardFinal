@@ -10,15 +10,45 @@
       "children": "Shiloh Nouvel Jolie-Pitt, Maddox Chivan Jolie-Pitt",
       "image": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
     },
+	  {
+      "name": "Charlize Theron",
+      "description": "William Bradley 'Brad' Pitt is an American actor and film producer. He has received a Golden Globe Award, a Screen Actors Guild Award, and three Academy Award nominations in acting categories",
+      "dob": "August 7 1975",
+      "country": "United States",
+      "height": "1.80 m",
+      "spouse": "Jennifer Aniston",
+      "children": "Shiloh Nouvel Jolie-Pitt, Maddox Chivan Jolie-Pitt",
+      "image": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/hotdog/charlize.jpeg"
+    },
+	  {
+      "name": "Scarlet Johansen",
+      "description": "William Bradley 'Brad' Pitt is an American actor and film producer. He has received a Golden Globe Award, a Screen Actors Guild Award, and three Academy Award nominations in acting categories",
+      "dob": "November 22 1984",
+      "country": "United States",
+      "height": "1.80 m",
+      "spouse": "Jennifer Aniston",
+      "children": "Shiloh Nouvel Jolie-Pitt, Maddox Chivan Jolie-Pitt",
+      "image": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/hotdog/scarlet.jpeg"
+    },
+	  {
+      "name": "Jennifer Lawrence",
+      "description": "William Bradley 'Brad' Pitt is an American actor and film producer. He has received a Golden Globe Award, a Screen Actors Guild Award, and three Academy Award nominations in acting categories",
+      "dob": "August 15 1990",
+      "country": "United States",
+      "height": "1.80 m",
+      "spouse": "Jennifer Aniston",
+      "children": "Shiloh Nouvel Jolie-Pitt, Maddox Chivan Jolie-Pitt",
+      "image": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/hotdog/jenifer.jpeg"
+    },
     {
-      "name": "Tom Cruise",
+      "name": "Natalie Portman",
       "description": "Tom Cruise, is an American film actor and producer. He has been nominated for three Academy Awards and has won three Golden Globe Awards. He started his career at age 19 in the 1981 film Endless Love.",
-      "dob": "July 3, 1962",
+      "dob": " June 9 1981",
       "country": "United States",
       "height": "1.70 m",
       "spouse": "Katie Holmes",
       "children": "Suri Cruise, Isabella Jane Cruise, Connor Cruise",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
+      "image": "https://raw.githubusercontent.com/IronnPaulo/CustomStoryBoardFinal/master/hotdog/natalie.jpeg"
     },
     {
       "name": "Johnny Depp",
